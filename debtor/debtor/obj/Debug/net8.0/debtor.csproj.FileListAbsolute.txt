@@ -1,0 +1,14 @@
+C:\Users\MSI\source\repos\debtor\debtor\bin\Debug\net8.0\debtor.exe
+C:\Users\MSI\source\repos\debtor\debtor\bin\Debug\net8.0\debtor.deps.json
+C:\Users\MSI\source\repos\debtor\debtor\bin\Debug\net8.0\debtor.runtimeconfig.json
+C:\Users\MSI\source\repos\debtor\debtor\bin\Debug\net8.0\debtor.dll
+C:\Users\MSI\source\repos\debtor\debtor\bin\Debug\net8.0\debtor.pdb
+C:\Users\MSI\source\repos\debtor\debtor\obj\Debug\net8.0\debtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\debtor\debtor\obj\Debug\net8.0\debtor.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\debtor\debtor\obj\Debug\net8.0\debtor.AssemblyInfo.cs
+C:\Users\MSI\source\repos\debtor\debtor\obj\Debug\net8.0\debtor.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\debtor\debtor\obj\Debug\net8.0\debtor.dll
+C:\Users\MSI\source\repos\debtor\debtor\obj\Debug\net8.0\refint\debtor.dll
+C:\Users\MSI\source\repos\debtor\debtor\obj\Debug\net8.0\debtor.pdb
+C:\Users\MSI\source\repos\debtor\debtor\obj\Debug\net8.0\debtor.genruntimeconfig.cache
+C:\Users\MSI\source\repos\debtor\debtor\obj\Debug\net8.0\ref\debtor.dll
